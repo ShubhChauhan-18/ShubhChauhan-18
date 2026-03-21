@@ -4,19 +4,16 @@
 🚀 Currently building real-world projects  
 📚 Learning Data Structures & Algorithms  
 
----
 
 ## 🔥 Projects
 - Travel Planner App
 - Frontend Projects Collection
 
----
 
 ## 📈 Daily Progress
 - Solving DSA problems
 - Improving projects
 
----
 
 ## 🛠 Technical Skills
 💻 Languages: Java | JavaScript | SQL  
