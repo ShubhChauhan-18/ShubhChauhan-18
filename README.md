@@ -18,10 +18,12 @@
 
 ---
 
-## 🛠 Tech Stack
-- HTML, CSS, JavaScript
-- Node.js (Learning)
-- MongoDB (Learning)
+## 🛠 Technical Skills
+💻 Languages: Java | JavaScript | SQL  
+⚙️ Tools: React | Node.js | Express.js | Git  
+🗄 Databases: MySQL | PostgreSQL | MongoDB  
+☁️ Cloud: AWS (EC2)  
+🔗 APIs: RESTful APIs  
 
 ---
 
