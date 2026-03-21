@@ -22,7 +22,6 @@
 ☁️ Cloud: AWS (EC2)  
 🔗 APIs: RESTful APIs  
 
----
 
 ## 📫 Connect with me
-- LinkedIn: (add later)
+- LinkedIn: shubh chauhan
