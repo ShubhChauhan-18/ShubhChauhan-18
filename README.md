@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Shubh
 
-<!--
-**ShubhChauhan-18/ShubhChauhan-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about Web Development & DSA  
+🚀 Currently building real-world projects  
+📚 Learning Data Structures & Algorithms  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- Travel Planner App
+- Frontend Projects Collection
+
+---
+
+## 📈 Daily Progress
+- Solving DSA problems
+- Improving projects
+
+---
+
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- Node.js (Learning)
+- MongoDB (Learning)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (add later)
