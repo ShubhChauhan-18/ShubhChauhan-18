@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shubh
+# Hi, I'm Shubh
 
 💻 Passionate about Web Development & DSA  
 🚀 Currently building real-world projects  
