@@ -6,9 +6,17 @@
 
 
 ## 🔥 Projects
-- Travel Planner App
-- Frontend Projects Collection
+🔹 Travel Planner
+A smart travel planning app to organize trips efficiently with modern UI and logic.
 
+🔹 Tourism Website
+A responsive tourism website with attractive UI, smooth navigation, and clean design.
+
+🔹 Frontend Projects Collection
+A collection of multiple frontend mini-projects showcasing UI/UX skills and creativity.
+
+🔹 React Project
+Hands-on project built using React focusing on component-based architecture.
 
 ## 📈 Daily Progress
 - Solving DSA problems
