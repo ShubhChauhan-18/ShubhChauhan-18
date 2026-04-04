@@ -83,13 +83,6 @@
 - 👨‍💻 Project-driven learning approach
 - 🚀 Team Lead in Hackathon (AI Trip Planner) :contentReference[oaicite:1]{index=1}  
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhChauhan-18&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhChauhan-18&theme=tokyonight" />
-</p>
-
 ## 🔗 Connect With Me
 
 <p align="center">
