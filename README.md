@@ -1,74 +1,112 @@
-👋 Hi, I'm Shubh Chauhan
+<h1 align="center">Hi 👋, I'm Shubh Chauhan</h1>
+<h3 align="center">🚀 Full-Stack Developer | DSA Enthusiast | Problem Solver</h3>
 
-🚀 Full-Stack Developer | DSA Enthusiast | Problem Solver
-💡 Turning ideas into real-world scalable applications
-📈 Consistently improving through code, projects, and practice
+<p align="center">
+  💡 Turning ideas into scalable real-world applications <br/>
+  📈 Consistently improving through code, projects & problem solving
+</p>
 
-🚀 About Me
+## 🚀 About Me
 
-I am a passionate developer focused on building high-quality, scalable, and user-centric web applications. I enjoy solving complex problems using Data Structures & Algorithms and applying that logic to real-world systems.
+- 🎓 B.Tech IT Student @ Thakur College of Engineering & Technology (GPA: 9.4) :contentReference[oaicite:0]{index=0}  
+- 💻 Passionate about building **full-stack scalable applications**
+- 🧠 Strong focus on **Data Structures & Algorithms**
+- ⚡ Love combining **logic + design** to create impactful products
+- 🔥 Currently learning **System Design & Production-level Development**
 
-With hands-on experience in both frontend and backend development, I strive to create applications that are not just functional but also visually appealing and efficient.
 
-🔥 Featured Projects
-🌍 Travel Planner
+## 🛠 Tech Stack
 
-A smart travel planning application to organize trips efficiently with optimized logic and a modern UI.
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,sql" />
+</p>
 
-🏝 Tourism Website
+### ⚙️ Frameworks & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github" />
+</p>
 
-A responsive and visually engaging tourism platform with smooth navigation and clean design.
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-🍔 Food Delivery System
+### ☁️ Cloud & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://img.shields.io/badge/REST-API-green?style=for-the-badge" />
+</p>
 
-A dynamic web application simulating real-world food ordering with interactive UI and functional features.
+## 🔥 Featured Projects
 
-🎨 3D Hover Effects
+### 🌍 Travel Planner (Smart AI-based App)
+- Intelligent trip planning based on preferences
+- Optimized itinerary generation
+- Modern UI with real-world use cases  
+👉 `travel-planner` repo
 
-Advanced CSS-based UI components that enhance user interaction and visual appeal.
+### 🏝 Tourism Website
+- Fully responsive & visually engaging UI
+- Smooth navigation + modern design
+👉 `tourism-website` repo
 
-💻 Frontend Projects Collection
+### 🍔 Food Delivery System
+- Real-world food ordering system simulation
+- Interactive UI + backend logic
+👉 `Food-Delivery` repo
 
-A collection of creative mini-projects showcasing strong UI/UX skills, animations, and responsiveness.
+### 🎬 Movie Ticket Booking Platform
+- Full-stack app using **React, Node.js, MongoDB**
+- Authentication + booking system  
+👉 (Mention this repo if private → make it public ASAP)
 
-📈 Daily Growth & Consistency
+### 🎨 3D Hover Effects
+- Advanced CSS animations & UI interactions
+👉 `3D-HOVER-EFFECT` repo
 
-✔ Solving DSA problems regularly
-✔ Improving project architecture and performance
-✔ Learning advanced full-stack concepts
-✔ Writing cleaner and optimized code
+### 💻 Frontend Projects Collection
+- Multiple UI/UX projects
+- Focus on responsiveness & animations  
+👉 `Frontend-Projects` repo
 
-🛠 Tech Stack
-💻 Languages
+## 📈 What I Do Daily
 
-Java JavaScript SQL
+✔ Solve DSA problems (LeetCode focused)  
+✔ Build and improve real-world projects  
+✔ Optimize performance & architecture  
+✔ Learn advanced backend + system design  
 
-⚙️ Frameworks & Tools
+## 🏆 Achievements
 
-React.js Node.js Express.js Git GitHub
+- 🧠 Strong problem-solving mindset
+- 👨‍💻 Project-driven learning approach
+- 🚀 Team Lead in Hackathon (AI Trip Planner) :contentReference[oaicite:1]{index=1}  
 
-🗄 Databases
+## 📊 GitHub Stats
 
-MySQL PostgreSQL MongoDB
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhChauhan-18&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhChauhan-18&theme=tokyonight" />
+</p>
 
-☁️ Cloud
+## 🔗 Connect With Me
 
-AWS EC2
+<p align="center">
+<a href="https://www.linkedin.com/in/shubh-chauhan-12564a323/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:shubhc939@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
-🔗 APIs
+## 💡 Current Focus
 
-REST APIs
+🔥 Mastering DSA for top tech interviews  
+⚡ Building production-level MERN applications  
+🏗 Learning system design fundamentals  
 
-🧠 Current Focus
-🔥 Mastering DSA for coding interviews
-⚡ Building full-stack production-level applications
-🏗 Learning system design fundamentals
-📊 GitHub Stats
-
-🏆 Achievements & Mindset
-💪 Consistent learner with daily coding habit
-🚀 Project-driven approach to mastering development
-🎯 Focused on long-term growth and excellence
-📫 Connect with Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/shubh-chauhan-12564a323/
+<p align="center">
+✨ "Consistency beats talent when talent doesn't work hard." ✨
+</p>
