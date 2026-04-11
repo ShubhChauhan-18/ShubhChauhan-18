@@ -81,7 +81,7 @@
 
 - 🧠 Strong problem-solving mindset
 - 👨‍💻 Project-driven learning approach
-- 🚀 Team Lead in Hackathon (AI Trip Planner) :contentReference[oaicite:1]{index=1}  
+- 🚀 Team Lead in Hackathon (AI Trip Planner)
 
 ## 🔗 Connect With Me
 
