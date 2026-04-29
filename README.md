@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubh Chauhan</h1>
-<h3 align="center">🚀 Full-Stack Developer | DSA Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer| Data-Engineer | DSA Enthusiast | Problem Solver</h3>
 
 <p align="center">
   💡 Turning ideas into scalable real-world applications <br/>
