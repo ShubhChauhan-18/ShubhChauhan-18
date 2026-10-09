@@ -14,7 +14,6 @@
 - ⚡ Love combining **logic + design** to create impactful products
 - 🔥 Currently learning **System Design & Production-level Development**
 
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
